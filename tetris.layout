@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="include/blue.h" open="0" top="0" tabpos="0">
+		<Cursor position="32" topLine="0" />
+	</File>
+	<File name="include/brown.h" open="0" top="0" tabpos="0">
+		<Cursor position="36" topLine="0" />
+	</File>
+	<File name="include/graphicEngine.h" open="1" top="0" tabpos="3">
+		<Cursor position="348" topLine="0" />
+	</File>
+	<File name="include/grey.h" open="0" top="0" tabpos="0">
+		<Cursor position="32" topLine="0" />
+	</File>
+	<File name="include/orange.h" open="0" top="0" tabpos="0">
+		<Cursor position="36" topLine="0" />
+	</File>
+	<File name="include/purple.h" open="0" top="0" tabpos="0">
+		<Cursor position="36" topLine="0" />
+	</File>
+	<File name="include/red.h" open="0" top="0" tabpos="0">
+		<Cursor position="23" topLine="0" />
+	</File>
+	<File name="src/blue.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="src/brown.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1257" topLine="28" />
+	</File>
+	<File name="src/graphicEngine.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="64" topLine="0" />
+	</File>
+	<File name="src/green.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="1686" topLine="27" />
+	</File>
+	<File name="src/grey.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="149" topLine="0" />
+	</File>
+	<File name="src/main.cpp" open="1" top="1" tabpos="2">
+		<Cursor position="315" topLine="0" />
+	</File>
+	<File name="src/orange.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="482" topLine="16" />
+	</File>
+	<File name="src/purple.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="482" topLine="0" />
+	</File>
+	<File name="src/red.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="1667" topLine="27" />
+	</File>
+	<File name="src/tetrisPiece.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="4205" topLine="54" />
+	</File>
+</CodeBlocks_layout_file>
